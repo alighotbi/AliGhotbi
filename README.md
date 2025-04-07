@@ -10,6 +10,7 @@ I have worked with many advanced Python features like `regexes`, `OOP`, and vari
 I’ve explored JavaScript at a basic level, which gives me a diverse perspective on programming.
 
 **🎇** I love server-side development, especially `Django` and backend web development. I’m at a middle level of `Django` backend and `REST API`, `(DRF)` development. I have learned `Django` and `DRF` (Django REST Framework) and I’m eager to apply my knowledge in real-world scenarios. I have some good sample projects  ([**explore my repos**](https://github.com/alighotbi?tab=repositories))
+
 **🎇**  I know about relational and non-relational database design and have learned the basics of `SQL` and `MongoDB`.
 
 #### **✊** I am passionate about advancing in the field of software development and architecture.
@@ -40,18 +41,3 @@ I’ve explored JavaScript at a basic level, which gives me a diverse perspectiv
     <img alt='skill icons' src="https://skillicons.dev/icons?i=html,css,js&perline=3&theme=dark" />
   </P>
 </div>
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
