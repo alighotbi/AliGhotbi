@@ -42,11 +42,13 @@ I’ve explored JavaScript at a basic level, which gives me a diverse perspectiv
 </div>
 <div align="center">
   
+ <div align="center">
   <h2 align='center'> Connect </h2> 
    <p>
-        <a href="www.linkedin.com/in/-seyed-ali-ghotbi">
-        <img alt="linkedin icon" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-        </a> <br>
-    </p>
+    <a href="https://www.linkedin.com/in/seyed-ali-ghotbi" target="_blank" rel="noopener noreferrer">
+        <img alt="LinkedIn Icon" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    </a> <br>
+</p>
     
 </div>
+
